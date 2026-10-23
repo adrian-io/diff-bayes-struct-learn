@@ -1,6 +1,10 @@
 # Experiments on Differentiable Bayesian Structure Learning
 
-This repository contains code and resources for two experiments conducted to explore the principles and limitations of Differentiable Bayesian Structure Learning (DiBS). The experiments are implemented in Python using the official DiBS package by Lorch et al. (2021) ([arXiv:2105.11839](https://arxiv.org/abs/2105.11839)).
+This repository contains code and resources for two experiments conducted to explore the principles and limitations of Differentiable Bayesian Structure Learning (DiBS). The experiments are implemented in Python using the official [DiBS package](https://github.com/larslorch/dibs) by Lorch et al. (2021) ([arXiv:2105.11839](https://arxiv.org/abs/2105.11839)).
+
+## Paper
+
+**[Differentiable Bayesian Structure Learning](Scholl_2025_Differentiable_Bayesian_Structure_Learning.pdf)** (PDF). Seminar paper, Current Research in Data Science, LMU Munich, 2025 (revised October 2026 with minor corrections). Supervisors: Simon Rittel and Dr. Ludwig Bothmann. Not peer-reviewed.
 
 ## Experiments Overview
 
@@ -31,4 +35,4 @@ Lorch, L., Rothfuss, J., Schölkopf, B., & Krause, A. (2021). DiBS: Differentiab
 
 ---
 
-*Note: This repository focuses on specific experiments related to the DiBS framework. For the official DiBS package and broader applications, please consult the original DiBS repository.*
+*Note: This repository focuses on specific experiments related to the DiBS framework. For the official DiBS package and broader applications, please consult the [original DiBS repository](https://github.com/larslorch/dibs).*
